@@ -1,0 +1,7 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">Whizzy</string>
+=======
+    <string name="app_name">ChatBotApplication</string>
+>>>>>>> origin/master
+</resources>
